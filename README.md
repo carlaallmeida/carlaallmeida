@@ -5,8 +5,6 @@
 - 🖥️  Cursando Pós em Engenharia de Software...
 - 🌱  Formada em Ciências Biológicas ...
 
-
-div>
   <a href="https://github.com/carlaallmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaallmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  
