@@ -12,5 +12,6 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Carla Java" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />">
+  <img align="center" alt="Carla Java" height="30" width="40" src="<img src=" https://raw.githubusercontent.com/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  
   <img align="center" alt="Carla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
