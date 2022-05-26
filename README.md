@@ -15,13 +15,13 @@
   <div style="display: inline_block"><br> 
   <img align="center" alt="Carla-linux" right="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  
-  ### Linguagens estudadas atualmente
+  ###  Estudando atualmente
 
   <div style="display: inline_block"><br> 
   <img align="center" alt="Carla-java" right="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img align="center" alt="Carla-python" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
     
-  ### Linhaguens já usadas
+  ### Linguagens já usadas
    
   <div style="display: inline_block"><br>  
   <img align="center" alt="Carla-jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
