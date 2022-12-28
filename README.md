@@ -15,7 +15,7 @@
   <div style="display: inline_block"><br> 
   <img align="center" alt="Carla-linux" right="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  
-  ###  Estudando atualmente
+  ###  Linguagens estudadas atualmente
 
   <div style="display: inline_block"><br> 
   <img align="center" alt="Carla-python" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
