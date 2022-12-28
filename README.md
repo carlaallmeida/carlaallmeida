@@ -18,7 +18,7 @@
   ###  Estudando atualmente
 
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Carla-python" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  <img align="right" alt="Carla-python" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
     
    
   <div style="display: inline_block"><br>  
