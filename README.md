@@ -1,5 +1,10 @@
 ### Hi, Carla por aqui!  👋
 
+[![Site Pessoal](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karlaalmeida.tech/)
+[![Site Pessoal](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karlaamdfat@gmail.com)
+[![Site Pessoal](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlaaalmeidapaula)
+
+
 - 🖥️  Estagiária de Suporte na Empresa Hostgator...
 - 📚  Cursando Análise e desenvolvimento de Sistemas...
 - 🖥️  Cursando Pós em Inteligência Artificial...
@@ -9,15 +14,10 @@
   <a href="https://github.com/carlaallmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaallmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <div> 
-  
-  ### Sistema Operacional usado no dia a dia 
-   
-  <div style="display: inline_block"><br> 
-  <img align="center" alt="Carla-linux" right="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  
   ###  Linguagens estudadas atualmente
 
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Carla-python" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
-  <img align="center" alt="Carla-html" height="50" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Carla-html" height="50" width="60"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="python" height="50" width="60" <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
+  <img align="center" alt="Carla-html" height="50" width="60" <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Carla-html" height="50" width="60"  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
