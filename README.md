@@ -3,7 +3,7 @@
 [![Site Pessoal](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://karlaalmeida.tech/)
 
 <div>
-<h3 align = "center">
+<h3 align = "left">
 
 - 📚  Estudante de Análise e desenvolvimento de Sistemas...
 
