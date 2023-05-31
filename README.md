@@ -1,21 +1,18 @@
-### Hi, Carla por aqui!  👋
+<h1 align="center">Hi 👋,  Carla por Aqui</h1>
 
-[![Site Pessoal](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://karlaalmeida.tech/)
+<h3 align="center"> 🖥️  Estudante de Ciência de Dados e Inteligência Artificial</h3><br>
 
-<div>
-- 📚  Estudante de Análise e desenvolvimento de Sistemas...
-- 🖥️  Cursando Pós em Inteligência Artificial...
- </div>
+- 📄 Estrutura de Dados [Listas Encadeadas](https://github.com/carlaallmeida/listaencadeada)
+
+- 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Numpy / Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
 
  <div>
   <a href="https://github.com/carlaallmeida">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
  <div> 
+<br>
 
- ### Linguagens estudadas atualmente
 
-  <div style="display: inline_block"><br> 
-  <img align="center" alt="python"  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
-  <img align="center" alt="html"  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css"  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="markdown"  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<h3 align="left">Linguagens Estudadas Atualmente</h3>
+<br>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
