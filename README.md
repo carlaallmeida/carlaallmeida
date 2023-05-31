@@ -12,7 +12,7 @@
  </div>
  <div>
   <a href="https://github.com/carlaallmeida">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
  <div> 
  
   ###  Linguagens estudadas atualmente
