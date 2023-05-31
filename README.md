@@ -1,22 +1,18 @@
-<h2 align = "center"> Hi, Carla por aqui!  👋 </h2>
+### Hi, Carla por aqui!  👋
 
 [![Site Pessoal](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://karlaalmeida.tech/)
 
 <div>
-<h4 align = "center">
-
 - 📚  Estudante de Análise e desenvolvimento de Sistemas...
 - 🖥️  Cursando Pós em Inteligência Artificial...
- 
- </h4>
  </div>
 
  <div>
   <a href="https://github.com/carlaallmeida">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
  <div> 
- 
-  <h2 align = "center"> Linguagens estudadas atualmente </h2>
+
+ ### Linguagens estudadas atualmente
 
   <div style="display: inline_block"><br> 
   <img align="center" alt="python"  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">   
