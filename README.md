@@ -3,12 +3,12 @@
 [![Site Pessoal](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://karlaalmeida.tech/)
 
 <div>
-<h3 align = "left">
+<h4 align = "center">
 
 - 📚  Estudante de Análise e desenvolvimento de Sistemas...
-
 - 🖥️  Cursando Pós em Inteligência Artificial...
- </h3>
+ 
+ </h4>
  </div>
 
  <div>
