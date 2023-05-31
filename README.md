@@ -1,4 +1,4 @@
-<h3 align = "center"> Hi, Carla por aqui!  👋 </h3>
+<h2 align = "center"> Hi, Carla por aqui!  👋 </h2>
 
 [![Site Pessoal](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://karlaalmeida.tech/)
 
@@ -12,7 +12,7 @@
  </div>
  <div>
   <a href="https://github.com/carlaallmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaallmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlaallmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <div> 
  
   ###  Linguagens estudadas atualmente
