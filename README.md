@@ -1,4 +1,4 @@
-<h2 align = "left"> Hi, Carla por aqui!  👋 </h2>
+<h3 align = "center"> Hi, Carla por aqui!  👋 </h3>
 
 [![Site Pessoal](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://karlaalmeida.tech/)
 
