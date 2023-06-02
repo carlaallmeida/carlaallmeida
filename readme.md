@@ -4,7 +4,7 @@
 
 - 📄 Estrutura de Dados [Listas Encadeadas](https://github.com/carlaallmeida/listaencadeada)
 
-- 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Requets/ Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
+- 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Requests/ Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
 
  <div>
   <a href="https://github.com/carlaallmeida">
