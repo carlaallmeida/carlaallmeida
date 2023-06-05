@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,  Carla por Aqui</h1>
 
-<h3 align="center"> 🖥️  Estudante de Ciência de Dados e Inteligência Artificial</h3><br>
+<h3 align="center"> 🖥️ Alguns projetos abaixo</h3><br>
 
 - 📄 Estrutura de Dados [Listas Encadeadas](https://github.com/carlaallmeida/listaencadeada)
 
