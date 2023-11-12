@@ -21,5 +21,5 @@
 <h3 align="left">Ferramentas do dia a dia</h3>
 <br>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="css3" width="40" height="40" />
-</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="css3" width="40" height="40"/> </a> </p>
+</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="css3" width="40" height="40"/> </a> 
 </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
