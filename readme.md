@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋,  Carla por Aqui</h2>
----
+<h3 align="left">Hi 👋,  Carla por Aqui</h3>
 
 Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a minha segunda graduação em  análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS. E atualmente estou cursando a pós em Administração de Bancos de Dados pela FOCUS.
 
@@ -12,6 +11,7 @@ Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a m
 
 <h3 align="left">Ferramentas do dia a dia</h3>
 <br>
+
 * Linguagens de Programação - Python, Html e CSS.
 * Ferramentas de visualização de dados: Redash d Grafana.
 * Ambientes de Desenvolvimento em nuvem - AWS.
