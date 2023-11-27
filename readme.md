@@ -7,7 +7,7 @@
 - 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Requests/ Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
 
 <div align = "center">
-  <img src ="![github](https://github.com/carlaallmeida/carlaallmeida/assets/102884279/8d80922c-9697-4944-9db7-0fece2b0796a)" />
+  <img src ="https://github.com/carlaallmeida/carlaallmeida/assets/102884279/8d80922c-9697-4944-9db7-0fece2b0796a" />
 </div>
 <h3 align="left">Linguagens Estudadas Atualmente</h3>
 <br>
