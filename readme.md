@@ -6,7 +6,9 @@
 
 - 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Requests/ Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
 
-
+<div align = "center">
+  <img src ="![github](https://github.com/carlaallmeida/carlaallmeida/assets/102884279/8d80922c-9697-4944-9db7-0fece2b0796a)" />
+</div>
 <h3 align="left">Linguagens Estudadas Atualmente</h3>
 <br>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="css3" width="40" height="40" />
