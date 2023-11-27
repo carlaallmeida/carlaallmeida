@@ -1,10 +1,12 @@
 <h1 align="left">Hi 👋,  Carla por Aqui</h1>
 
 <h3 align="left">Sobre</h3>
+---
 
 <p> Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a minha segunda graduação em  análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS. E atualmente estou cursando a pós em Administração de Bancos de Dados pela FOCUS.</p>
 
-- <h3 align="left">Linguagens Estudadas Atualmente</h3>
+<h3 align="left">Linguagens Estudadas Atualmente</h3>
+---
 
 <div align = "center">
   <img src ="https://github.com/carlaallmeida/carlaallmeida/assets/102884279/8d80922c-9697-4944-9db7-0fece2b0796a" />
