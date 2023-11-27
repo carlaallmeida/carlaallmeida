@@ -4,6 +4,7 @@ Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a m
 
 <h4 align="left">Experiência em: </h4>
 ~~~~
+
 - AWS - Consultas no S3 e Athena.
 - Biblioteca Pandas Python -  Para manipulação de dados em tabelas.
 - Biblioteca Matplotlib Python - Para criação de gŕaficos e visualização de dados.
@@ -11,6 +12,7 @@ Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a m
 
 <h4 align="left">Ferramentas do dia a dia</h4>
 ~~~
+
 - Linguagens de Programação - Python.
 - Ferramentas de visualização de dados: Redash e Grafana.
 - Ambientes de Desenvolvimento em nuvem - AWS.
