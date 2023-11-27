@@ -10,14 +10,16 @@
 - Biblioteca Pandas Python -  Para manipulação de dados em tabelas.
 - Biblioteca Matplotlib Python - Para criação de gŕaficos e visualização de dados.
 - Database - Consultas com SQL usando o Spark.
+- Governança de Dados - Criação e organização do Catálogo de Dados
 
-<h4 align="left">Ferramentas do dia a dia</h4>
+<h4 align="left">Ferramentas do dia a dia:</h4>
 
 ---
 
-- Linguagens de Programação - Python.
-- Ferramentas de visualização de dados: Redash e Grafana.
 - Ambientes de Desenvolvimento em nuvem - AWS.
+- Ferramentas de gestão de Dados - Datahub
+- Ferramentas de visualização de dados: Redash e Grafana.
+- Linguagens de Programação - Python.
 - Outras linguagens: html e Css (Básico)
 
 <div align = "center">
