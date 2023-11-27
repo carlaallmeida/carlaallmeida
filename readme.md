@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋,  Carla por Aqui</h1>
+<h4 align="left">Hi 👋,  Carla por Aqui</h4>
 
 
-<h3 align="left">Sobre</h3>
+<h4 align="left">Sobre</h4>
 
 <p> Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a minha segunda graduação em  análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS. E atualmente estou cursando a pós em Administração de Bancos de Dados pela FOCUS.</p>
 
-<h3 align="left">Linguagens Estudadas Atualmente</h3>
+<h4 align="left">Linguagens Estudadas Atualmente</h4>
 
 
 <div align = "center">
