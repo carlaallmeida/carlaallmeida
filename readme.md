@@ -6,12 +6,6 @@
 
 - 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Requests/ Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
 
- <div>
-  <a href="https://github.com/carlaallmeida">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
- <div> 
-<br>
-
 
 <h3 align="left">Linguagens Estudadas Atualmente</h3>
 <br>
