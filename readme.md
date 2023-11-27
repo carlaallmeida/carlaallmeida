@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋,  Carla por Aqui</h1>
+<h1 align="left">Hi 👋,  Carla por Aqui</h1>
 
 <h3 align="center"> 🖥️ Aplicações em Python</h3><br>
 
-- 📄 Estrutura de Dados [Listas Encadeadas](https://github.com/carlaallmeida/listaencadeada)
-
-- 📄 Analíse de Dados [Estudo das Bibliotecas Pandas/ Requests/ Matplotlib](https://github.com/carlaallmeida/CienciadeDados)
+- 📄 Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a minha segunda graduação em  análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS. E atualmente cursando pós em Administração de Bancos de Dados pela FOCUS.
 
 - <h3 align="left">Linguagens Estudadas Atualmente</h3>
 
