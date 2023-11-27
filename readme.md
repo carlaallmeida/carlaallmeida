@@ -18,7 +18,6 @@
 
 - Ambientes de Desenvolvimento em nuvem - AWS.
 - Ferramentas de gestão de Dados - Datahub
-- Ferramentas de visualização de dados: Redash e Grafana.
 - Linguagens de Programação - Python.
 - Outras linguagens: html e Css (Básico)
 
