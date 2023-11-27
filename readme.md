@@ -3,7 +3,6 @@
 Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a minha segunda graduação em  análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS. E atualmente estou cursando a pós em Administração de Bancos de Dados pela FOCUS.
 
 <h4 align="left">Experiência em: </h4>
-<br>
 ---
 
 * AWS - Consultas no S3 e Athena.
@@ -12,7 +11,6 @@ Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a m
 * Database - Consultas com SQL usando o Spark.
 
 <h4 align="left">Ferramentas do dia a dia</h4>
-<br>
 ---
 
 * Linguagens de Programação - Python, Html e CSS.
