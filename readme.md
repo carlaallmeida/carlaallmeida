@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋,  Carla por Aqui</h3>
 
-<p>Sou formada em Ciências Biológicas pela UNITAU e atualmente estou cursando a minha segunda graduação em  análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS. E atualmente estou cursando uma nova especialização em Administração de Bancos de Dados pela FOCUS.</p>
+<p>Sou formada em Ciências Biológicas pela UNITAU e em Análise e desenvolvimento de sistemas pela IESB. Sou especialista em Inteligência Artificial pela FOCUS e Especialização em Administração de Bancos de Dados pela FOCUS. </p>
 
 <h4 align="left">Experiência em: </h4>
 
