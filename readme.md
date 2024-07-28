@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋,  Carla por Aqui</h3>
 
-<p> Dupla Graduação em : Análise e Desenvolvimento de Sistemas pelo Instituto Superior de Educação de Brasília (IESB) e Ciências Biológicas pela Universidade de Taubaté (Unitau). Especialista em Administração em Banco de Dados, Inteligência Artificial e Engenharia de Software pela Faculdade Focus. </p>
+<p> Dupla Graduação em : Análise e Desenvolvimento de Sistemas pelo Instituto Superior de Educação de Brasília (IESB) e Ciências Biológicas pela Universidade de Taubaté (Unitau). Especialista em Administração de Banco de Dados, Inteligência Artificial e Engenharia de Software pela Faculdade Focus. </p>
 
 <h4 align="left">Experiência em: </h4>
 
