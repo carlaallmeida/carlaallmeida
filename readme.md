@@ -6,19 +6,19 @@
 
 ---
 
-- AWS - Consultas no  Athena.
-- Biblioteca Pandas Python -  Para manipulação de dados em tabelas.
-- Biblioteca Matplotlib Python - Para criação de gŕaficos e visualização de dados.
-- Database - Montagem de Query's usando SQL. 
-- Governança de Dados - Criação e organização do Catálogo de Dados.
+## 🧠 Áreas de Interesse
+- NLP (Processamento de Linguagem Natural)
+- LLMs e Agentes de IA
+- IA aplicada à documentação e governança de dados
+- Automação com IA
 
 <h4 align="left">Ferramentas do dia a dia:</h4>
 
 ---
 
-- Ambientes de Desenvolvimento em nuvem - AWS.
-- Ferramentas de  Governança de Dados - Datahub e Openmetadata
-- Linguagens de Programação - Python e SQL .
-- Ferramentas de Visualização de Dados : Redash e Grafana
-- Outras Ferramentas : Jupyter, Airflow e Spark.
-
+## 🛠️ Tecnologias
+- Python
+- LLMs (Gemini, Transformers)
+- NLP (spaCy, NLTK, Hugging Face)
+- Pandas, NumPy
+- SQL
