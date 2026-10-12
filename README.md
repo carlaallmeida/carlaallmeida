@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8a2be2&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+eu+sou+a+Carla+Almeida!;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
-  <p><b>Olá, Eu sou a Carla. Sou analista de sistemas e mestranda em Computação Aplicada, trabalhando com dados e inteligência artificial.</b></p>
+  <p><b> Sou Analista de Sistemas e Mestranda em Computação Aplicada no Instituto Nacional de Pesquisas Espaciais (INPE). Atualmente trabalho com dados e aplicações usando a  inteligência artificial.</b></p>
 </div>
 
 <br>
