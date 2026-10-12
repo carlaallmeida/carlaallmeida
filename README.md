@@ -26,7 +26,7 @@
  
 
 ### Studying in this moment:
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0D1117)&nbsp;
+
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
